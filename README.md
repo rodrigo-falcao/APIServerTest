@@ -57,7 +57,7 @@ Esta aplicação é uma API RESTful desenvolvida em **NestJS** para gerenciar da
    ```
    DB_HOST=localhost
    DB_PORT=5432
-   DB_USERNAME=postgres
+   DB_USERNAME=user_name
    DB_PASSWORD=sua_senha
    DB_DATABASE=nome_do_banco
    JWT_SECRET=seuSegredoJWT
