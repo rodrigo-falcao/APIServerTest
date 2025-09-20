@@ -45,7 +45,7 @@ Esta aplicação é uma API RESTful desenvolvida em **NestJS** para gerenciar da
 
 1. **Clone o repositório:**
    ```
-   git clone <link-do-repositorio>
+   git clone https://github.com/rodrigo-falcao/APIServerTest.git
    ```
 
 2. **Instale as dependências:**
